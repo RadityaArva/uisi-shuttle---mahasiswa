@@ -6,18 +6,15 @@ Tampilannya dibuat mobile-first karena sebagian besar penggunanya akan membuka l
 
 ## Tampilan
 
-| Login | Peta | Titik Jemput |
-|:-:|:-:|:-:|
-| ![Login]<img width="939" height="684" alt="Screen Shot 2026-10-13 at 10 27 27" src="https://github.com/user-attachments/assets/67cb0d73-c9de-42c0-94ee-6f17a96cb050" />
- | ![Peta]<img width="449" height="684" alt="Screen Shot 2026-10-13 at 10 27 57" src="https://github.com/user-attachments/assets/999d5283-02c2-4c74-9bf7-6faa80a9fab9" />
- | ![Titik jemput]<img width="442" height="685" alt="Screen Shot 2026-10-13 at 10 28 38" src="https://github.com/user-attachments/assets/41004630-2b24-4445-a05c-806ff865fde0" />
- |
 
-| Riwayat | Profil |
-|:-:|:-:|
-| ![Riwayat]<img width="442" height="680" alt="Screen Shot 2026-10-13 at 10 29 02" src="https://github.com/user-attachments/assets/97a3d9c4-1630-40fc-b21f-4820567267fd" />
- | ![Profil]<img width="438" height="677" alt="Screen Shot 2026-10-13 at 10 29 16" src="https://github.com/user-attachments/assets/5dbd9fe5-c4df-493d-bcce-ee36468f43b3" />
- |
+<p>  
+  <img width="939" height="684" alt="Screen Shot 2026-10-13 at 10 27 27" src="https://github.com/user-attachments/assets/67cb0d73-c9de-42c0-94ee-6f17a96cb050" /> <br>
+  <img width="449" height="684" alt="Screen Shot 2026-10-13 at 10 27 57" src="https://github.com/user-attachments/assets/999d5283-02c2-4c74-9bf7-6faa80a9fab9" /> <br>
+  <img width="442" height="685" alt="Screen Shot 2026-10-13 at 10 28 38" src="https://github.com/user-attachments/assets/41004630-2b24-4445-a05c-806ff865fde0" /> <br>
+  <img width="442" height="680" alt="Screen Shot 2026-10-13 at 10 29 02" src="https://github.com/user-attachments/assets/97a3d9c4-1630-40fc-b21f-4820567267fd" /> <br>
+  <img width="438" height="677" alt="Screen Shot 2026-10-13 at 10 29 16" src="https://github.com/user-attachments/assets/5dbd9fe5-c4df-493d-bcce-ee36468f43b3" />
+
+</p> 
 
 ## Fitur
 
