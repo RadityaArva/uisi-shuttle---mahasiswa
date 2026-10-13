@@ -48,12 +48,6 @@ Lalu buka `http://localhost:3000`.
 
 > Sesuaikan perintah dan port di atas dengan stack yang kamu pakai.
 
-## Teknologi
-
-- Frontend: _isi di sini_
-- Backend: _isi di sini_
-- Peta: _isi di sini_
-
 ## Struktur Folder
 
 ```
