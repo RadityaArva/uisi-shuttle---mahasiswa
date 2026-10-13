@@ -70,4 +70,4 @@ Proyek ini dibuat untuk keperluan belajar dan portofolio, bukan aplikasi resmi U
 
 ## Pembuat
 
-Raditya Arva Messi Jagaddhita, Informatika UISI.![Uploading Screen Shot 2026-10-13 at 10.27.27.png…]()
+Raditya Arva Messi Jagaddhita, Informatika UISI.
