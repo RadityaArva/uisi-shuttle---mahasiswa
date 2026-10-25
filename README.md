@@ -35,18 +35,6 @@ Tampilannya dibuat mobile-first karena sebagian besar penggunanya akan membuka l
 | Pos Kampus B | B |
 | Gedung Kampus B | B |
 
-## Menjalankan Lokal
-
-```bash
-git clone https://github.com/<username>/uisi-shuttle.git
-cd uisi-shuttle
-npm install
-npm run dev
-```
-
-Lalu buka `http://localhost:3000`.
-
-> Sesuaikan perintah dan port di atas dengan stack yang kamu pakai.
 
 ## Struktur Folder
 
